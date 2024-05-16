@@ -1,0 +1,1 @@
+wget run https://raw.githubusercontent.com/Mateusz06/CraftOS/main/install.lua
